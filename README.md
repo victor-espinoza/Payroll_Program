@@ -1,5 +1,5 @@
 # Payroll_Program
-Project Overview:    
+Project Overview:   
 Payroll program with C#.  
    
 This project deals with  the polymorphic relationship between the abstract Employee class and the other Employee classes within this project (HourlyEmployee, CommissionEmployee, and SalariedEmployee). 
