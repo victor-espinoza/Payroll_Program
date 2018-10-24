@@ -1,4 +1,3 @@
-# Payroll_Program
 Project Overview:   
 Payroll program with C#. 
    
